@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>font/Digital/DIGITALDREAM.ttf</file>
+        <file>font/Digital/DIGITALDREAMFAT.ttf</file>
+        <file>font/Digital/DIGITALDREAMFATNARROW.ttf</file>
+        <file>font/Digital/DIGITALDREAMFATSKEW.ttf</file>
+        <file>font/Digital/DIGITALDREAMFATSKEWNARROW.ttf</file>
+        <file>font/Digital/DIGITALDREAMNARROW.ttf</file>
+        <file>font/Digital/DIGITALDREAMSKEW.ttf</file>
+        <file>font/Digital/DIGITALDREAMSKEWNARROW.ttf</file>
+
+        <file>images/cloudy_stormy.png</file>
+        <file>images/freezing.png</file>
+        <file>images/hot.png</file>
+        <file>images/lightening-storm.png</file>
+        <file>images/rain-weather.png</file>
+        <file>images/snow.png</file>
+        <file>images/snow_fickle_weather.png</file>
+        <file>images/snowy.png</file>
+        <file>images/storm-rain-thunder-day.png</file>
+        <file>images/sun.png</file>
+        <file>images/sunny_rain_later.png</file>
+        <file>images/rainfall_stormy_weather.png</file>
+    </qresource>
+</RCC>
